@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "C7VEUAU83XnAX+0FYXtzO0Q5Ao/PP4nJcVQXtogF8OZ+bZ9EDq+MhpTQVIplIqAnyfkVtYTh/DvPveMRJlnauQ==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CopyAllFiles\\CopyAllFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Grant\\.nuget\\packages\\mediadevices\\1.9.1\\mediadevices.1.9.1.nupkg.sha512",
+    "C:\\Users\\Grant\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
